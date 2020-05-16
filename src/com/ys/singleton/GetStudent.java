@@ -1,4 +1,4 @@
-package com.ys.signgleton;
+package com.ys.singleton;
 public class GetStudent {
 	public GetStudent() {
 		// TODO Auto-generated constructor stub

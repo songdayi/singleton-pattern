@@ -1,4 +1,4 @@
-package com.ys.signgleton;
+package com.ys.singleton;
 
 public class Student {
 	private String nameString;
